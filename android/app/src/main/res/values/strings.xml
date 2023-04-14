@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <string name="chooser_share_post" translatable="false">Share post</string>
     <string name="app_name">NMedia</string>
     <string name="text">NMedia!</string>
     <string name="description_post_author_avatar" translatable="false">Post author avatar</string>
@@ -35,5 +36,8 @@
     <string name="news">Новости</string>
     <string name="interested">Интересное</string>
     <string name="new_posts">Свежие записи</string>
-
+    <string name="description_post_like">is liked</string>
+    <string name="description_post_share">share</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_remove">Remove</string>
 </resources>
